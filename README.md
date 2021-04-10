@@ -29,4 +29,4 @@ Battery Management System for SETECLab's Ground Station Terminal
 ### Who do I talk to? ###
 
 * [Juan J. Rojas](mailto:juan.rojas@itcr.ac.cr)
-* [Keryn Artavia](mailto:)
+* [Keryn Artavia](mailto:kartaviamiranda@gmail.com)
